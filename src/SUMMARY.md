@@ -1,0 +1,16 @@
+# Summary
+
+- [Quickstart](quickstart/README.md)
+    - [installing](quickstart/installing.md)
+    - [setup](quickstart/setup.md)
+    - [publishing](quickstart/publishing.md)
+    - [authorize](quickstart/authorize.md)
+    - [shell](quickstart/shell.md)
+    - [service discovery](quickstart/discovery.md)
+    - [sysinfo](quickstart/sysinfo.md)
+    - [file transfer](quickstart/sft.md)
+    - [peer discovery](quickstart/shadows.md)
+- [Scaling with conduit](conduit/README.md)
+    - [rust](conduit/rust.md)
+    - [simple data collector](conduit/basic.md)
+- [Custom Publishers](custom/README.md)

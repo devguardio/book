@@ -1,0 +1,5 @@
+[book]
+authors = ["Arvid E. Picciani"]
+multilingual = false
+src = "src"
+title = "Devguard Wiki"
