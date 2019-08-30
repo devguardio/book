@@ -39,8 +39,6 @@ protobuf.load("carrier.sysinfo.v1.proto", function(err, root) {
 
     // whenever we find a new peer on the shadow
     conduit.on("publish", (identity, peer) => {
-      console.log("watt");
-
 
         // we connect to it
         // note that we could also decide to only connect some peers,
