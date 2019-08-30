@@ -11,6 +11,6 @@
     - [file transfer](quickstart/sft.md)
     - [peer discovery](quickstart/shadows.md)
 - [Scaling with conduit](conduit/README.md)
-    - [rust](conduit/rust.md)
-    - [simple data collector](conduit/basic.md)
+    - [with nodejs](conduit/nodejs.md)
+    - [with rust](conduit/rust.md)
 - [Custom Publishers](custom/README.md)
