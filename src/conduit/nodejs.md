@@ -15,7 +15,7 @@ we also recommend using protobufs. for this example you will need the file "carr
 
 
 ```bash
-$ npm install --save prorobufjs
+$ npm install --save protobufjs
 ```
 
 
